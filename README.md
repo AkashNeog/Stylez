@@ -14,4 +14,4 @@ Features of this E-commerce Website -
 12. Responsive SignUp Page
 
 
-Website Link -  https://akashneog.github.io/Brainwave_Matrix_Intern_2/
+Website Link -  https://akashneog.github.io/Stylez/
